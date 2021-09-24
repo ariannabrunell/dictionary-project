@@ -7,6 +7,11 @@ small {
   color: #053acc;
 }
 
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
 .App-header {
   margin: 30px 0;
   color: #053acc;
