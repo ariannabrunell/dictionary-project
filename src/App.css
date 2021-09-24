@@ -1,5 +1,16 @@
+body {
+  background: linear-gradient(to top, #c1dfc4 0%, #deecdd 100%);
+}
+
+a,
+small {
+  color: #053acc;
+}
+
 .App-header {
   margin: 30px 0;
+  color: #053acc;
+  font-size: 60px;
 }
 
 .App-footer {
