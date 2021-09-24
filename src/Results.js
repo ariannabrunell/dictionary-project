@@ -13,7 +13,7 @@ export default function Results(props) {
             target="_blank"
             rel="noreferrer"
           >
-            Listen
+            listen
           </a>
           <span className="text">{props.results.phonetics[0].text}</span>
         </section>
