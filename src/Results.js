@@ -15,8 +15,7 @@ export default function Results(props) {
           >
             Listen
           </a>
-          <br />
-          {props.results.phonetics[0].text}
+          <span className="text">{props.results.phonetics[0].text}</span>
         </section>
         {props.results.meanings.map(function (meaning, index) {
           return (
